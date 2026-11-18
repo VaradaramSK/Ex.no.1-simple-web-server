@@ -134,3 +134,7 @@ Output:
 <img width="1917" height="937" alt="image" src="https://github.com/user-attachments/assets/0a85e954-71b3-450f-a105-6f16eb0b22b1" />
 
 
+
+### Result:
+
+Thus, the Simple Web Server was successfully developed using Spring Boot. The application was able to handle basic HTTP requests through RESTful endpoints and return appropriate responses for the requested URLs.
